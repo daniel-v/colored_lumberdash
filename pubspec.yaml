@@ -3,11 +3,12 @@ description: >
   Lumberdash plugin that pretty prints your logs on all 3 major
   platforms.
 version: 0.9.0
-author: daniel-v
+author: daniel-v <dvargahali@gmail.com>
+homepage: https://github.com/daniel-v/colored_lumberdash
 
 environment:
   sdk: ">=2.0.0 <3.0.0"
 
 dependencies:
-  ansicolor: '>=1.0.2'
-  lumberdash: '>=1.0.3'
+  ansicolor: ^1.0.2
+  lumberdash: ^1.0.3
