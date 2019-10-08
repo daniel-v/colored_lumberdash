@@ -1,0 +1,7 @@
+name: colored_lumberdash_example
+description: Example for colored_lumberdash usage
+
+dependencies:
+  lumberdash:
+  colored_lumberdash:
+    path: ../
